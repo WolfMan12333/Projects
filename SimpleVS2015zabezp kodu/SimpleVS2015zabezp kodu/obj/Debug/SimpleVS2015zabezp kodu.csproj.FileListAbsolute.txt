@@ -1,0 +1,6 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\SimpleVS2015zabezp kodu\SimpleVS2015zabezp kodu\bin\Debug\SimpleVS2015zabezp kodu.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\SimpleVS2015zabezp kodu\SimpleVS2015zabezp kodu\bin\Debug\SimpleVS2015zabezp kodu.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\SimpleVS2015zabezp kodu\SimpleVS2015zabezp kodu\bin\Debug\SimpleVS2015zabezp kodu.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\SimpleVS2015zabezp kodu\SimpleVS2015zabezp kodu\obj\Debug\SimpleVS2015zabezp kodu.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\SimpleVS2015zabezp kodu\SimpleVS2015zabezp kodu\obj\Debug\SimpleVS2015zabezp kodu.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\SimpleVS2015zabezp kodu\SimpleVS2015zabezp kodu\obj\Debug\SimpleVS2015zabezp kodu.pdb

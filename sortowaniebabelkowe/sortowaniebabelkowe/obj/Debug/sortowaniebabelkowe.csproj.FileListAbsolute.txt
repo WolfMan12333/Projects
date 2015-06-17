@@ -1,0 +1,6 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\sortowaniebabelkowe\sortowaniebabelkowe\bin\Debug\sortowaniebabelkowe.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\sortowaniebabelkowe\sortowaniebabelkowe\bin\Debug\sortowaniebabelkowe.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\sortowaniebabelkowe\sortowaniebabelkowe\bin\Debug\sortowaniebabelkowe.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\sortowaniebabelkowe\sortowaniebabelkowe\obj\Debug\sortowaniebabelkowe.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\sortowaniebabelkowe\sortowaniebabelkowe\obj\Debug\sortowaniebabelkowe.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\sortowaniebabelkowe\sortowaniebabelkowe\obj\Debug\sortowaniebabelkowe.pdb

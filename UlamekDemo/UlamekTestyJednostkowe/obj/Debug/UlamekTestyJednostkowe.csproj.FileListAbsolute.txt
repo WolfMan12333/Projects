@@ -1,0 +1,7 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UlamekDemo\UlamekTestyJednostkowe\bin\Debug\UlamekTestyJednostkowe.dll
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UlamekDemo\UlamekTestyJednostkowe\bin\Debug\UlamekTestyJednostkowe.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UlamekDemo\UlamekTestyJednostkowe\bin\Debug\UlamekBiblioteka.dll
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UlamekDemo\UlamekTestyJednostkowe\bin\Debug\UlamekBiblioteka.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UlamekDemo\UlamekTestyJednostkowe\obj\Debug\UlamekTestyJednostkowe.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UlamekDemo\UlamekTestyJednostkowe\obj\Debug\UlamekTestyJednostkowe.dll
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UlamekDemo\UlamekTestyJednostkowe\obj\Debug\UlamekTestyJednostkowe.pdb

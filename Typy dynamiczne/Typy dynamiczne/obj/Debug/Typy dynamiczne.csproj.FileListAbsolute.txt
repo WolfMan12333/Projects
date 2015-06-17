@@ -1,0 +1,6 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Typy dynamiczne\Typy dynamiczne\bin\Debug\Typy dynamiczne.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Typy dynamiczne\Typy dynamiczne\bin\Debug\Typy dynamiczne.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Typy dynamiczne\Typy dynamiczne\bin\Debug\Typy dynamiczne.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Typy dynamiczne\Typy dynamiczne\obj\Debug\Typy dynamiczne.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Typy dynamiczne\Typy dynamiczne\obj\Debug\Typy dynamiczne.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Typy dynamiczne\Typy dynamiczne\obj\Debug\Typy dynamiczne.pdb

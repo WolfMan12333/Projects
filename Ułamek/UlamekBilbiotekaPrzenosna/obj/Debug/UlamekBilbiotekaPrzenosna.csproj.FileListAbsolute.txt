@@ -1,0 +1,5 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Ułamek\UlamekBilbiotekaPrzenosna\bin\Debug\UlamekBilbiotekaPrzenosna.dll
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Ułamek\UlamekBilbiotekaPrzenosna\bin\Debug\UlamekBilbiotekaPrzenosna.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Ułamek\UlamekBilbiotekaPrzenosna\obj\Debug\UlamekBilbiotekaPrzenosna.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Ułamek\UlamekBilbiotekaPrzenosna\obj\Debug\UlamekBilbiotekaPrzenosna.dll
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Ułamek\UlamekBilbiotekaPrzenosna\obj\Debug\UlamekBilbiotekaPrzenosna.pdb

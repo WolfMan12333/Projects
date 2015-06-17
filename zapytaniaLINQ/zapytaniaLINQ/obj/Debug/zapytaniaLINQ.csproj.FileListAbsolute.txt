@@ -1,0 +1,6 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\zapytaniaLINQ\zapytaniaLINQ\bin\Debug\zapytaniaLINQ.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\zapytaniaLINQ\zapytaniaLINQ\bin\Debug\zapytaniaLINQ.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\zapytaniaLINQ\zapytaniaLINQ\bin\Debug\zapytaniaLINQ.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\zapytaniaLINQ\zapytaniaLINQ\obj\Debug\zapytaniaLINQ.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\zapytaniaLINQ\zapytaniaLINQ\obj\Debug\zapytaniaLINQ.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\zapytaniaLINQ\zapytaniaLINQ\obj\Debug\zapytaniaLINQ.pdb

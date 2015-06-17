@@ -1,0 +1,9 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UstawieniaAplikacji\UstawieniaAplikacji\bin\Debug\UstawieniaAplikacji.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UstawieniaAplikacji\UstawieniaAplikacji\bin\Debug\UstawieniaAplikacji.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UstawieniaAplikacji\UstawieniaAplikacji\bin\Debug\UstawieniaAplikacji.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UstawieniaAplikacji\UstawieniaAplikacji\obj\Debug\UstawieniaAplikacji.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UstawieniaAplikacji\UstawieniaAplikacji\obj\Debug\UstawieniaAplikacji.Form1.resources
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UstawieniaAplikacji\UstawieniaAplikacji\obj\Debug\UstawieniaAplikacji.Properties.Resources.resources
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UstawieniaAplikacji\UstawieniaAplikacji\obj\Debug\UstawieniaAplikacji.csproj.GenerateResource.Cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UstawieniaAplikacji\UstawieniaAplikacji\obj\Debug\UstawieniaAplikacji.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UstawieniaAplikacji\UstawieniaAplikacji\obj\Debug\UstawieniaAplikacji.pdb

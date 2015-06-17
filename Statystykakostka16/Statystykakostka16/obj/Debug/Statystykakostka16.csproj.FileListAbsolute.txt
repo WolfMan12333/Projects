@@ -1,0 +1,6 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Statystykakostka16\Statystykakostka16\bin\Debug\Statystykakostka16.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Statystykakostka16\Statystykakostka16\bin\Debug\Statystykakostka16.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Statystykakostka16\Statystykakostka16\bin\Debug\Statystykakostka16.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Statystykakostka16\Statystykakostka16\obj\Debug\Statystykakostka16.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Statystykakostka16\Statystykakostka16\obj\Debug\Statystykakostka16.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Statystykakostka16\Statystykakostka16\obj\Debug\Statystykakostka16.pdb

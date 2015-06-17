@@ -1,0 +1,6 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\wyrażenia lambda\wyrażenia lambda\bin\Debug\wyrażenia lambda.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\wyrażenia lambda\wyrażenia lambda\bin\Debug\wyrażenia lambda.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\wyrażenia lambda\wyrażenia lambda\bin\Debug\wyrażenia lambda.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\wyrażenia lambda\wyrażenia lambda\obj\Debug\wyrażenia lambda.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\wyrażenia lambda\wyrażenia lambda\obj\Debug\wyrażenia lambda.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\wyrażenia lambda\wyrażenia lambda\obj\Debug\wyrażenia lambda.pdb

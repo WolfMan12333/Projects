@@ -1,0 +1,5 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UlamekDemo\UlamekBibliotekaPrzenosna\bin\Debug\UlamekBibliotekaPrzenosna.dll
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UlamekDemo\UlamekBibliotekaPrzenosna\bin\Debug\UlamekBibliotekaPrzenosna.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UlamekDemo\UlamekBibliotekaPrzenosna\obj\Debug\UlamekBibliotekaPrzenosna.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UlamekDemo\UlamekBibliotekaPrzenosna\obj\Debug\UlamekBibliotekaPrzenosna.dll
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UlamekDemo\UlamekBibliotekaPrzenosna\obj\Debug\UlamekBibliotekaPrzenosna.pdb

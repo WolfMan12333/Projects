@@ -1,0 +1,5 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Przyrostludziwmiescie\Przyrostludziwmiescie\bin\Debug\Przyrostludziwmiescie.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Przyrostludziwmiescie\Przyrostludziwmiescie\bin\Debug\Przyrostludziwmiescie.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Przyrostludziwmiescie\Przyrostludziwmiescie\bin\Debug\Przyrostludziwmiescie.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Przyrostludziwmiescie\Przyrostludziwmiescie\obj\Debug\Przyrostludziwmiescie.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Przyrostludziwmiescie\Przyrostludziwmiescie\obj\Debug\Przyrostludziwmiescie.pdb

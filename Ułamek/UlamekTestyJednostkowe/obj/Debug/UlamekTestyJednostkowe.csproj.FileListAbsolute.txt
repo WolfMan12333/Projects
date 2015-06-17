@@ -1,0 +1,11 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Ułamek\UlamekTestyJednostkowe\bin\Debug\UlamekTestyJednostkowe.dll
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Ułamek\UlamekTestyJednostkowe\bin\Debug\UlamekTestyJednostkowe.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Ułamek\UlamekTestyJednostkowe\bin\Debug\UlamekBiblioteka.dll
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Ułamek\UlamekTestyJednostkowe\bin\Debug\UlamekBilbiotekaPrzenosna.dll
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Ułamek\UlamekTestyJednostkowe\bin\Debug\Ułamek.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Ułamek\UlamekTestyJednostkowe\bin\Debug\UlamekBiblioteka.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Ułamek\UlamekTestyJednostkowe\bin\Debug\UlamekBilbiotekaPrzenosna.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Ułamek\UlamekTestyJednostkowe\bin\Debug\Ułamek.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Ułamek\UlamekTestyJednostkowe\obj\Debug\UlamekTestyJednostkowe.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Ułamek\UlamekTestyJednostkowe\obj\Debug\UlamekTestyJednostkowe.dll
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Ułamek\UlamekTestyJednostkowe\obj\Debug\UlamekTestyJednostkowe.pdb

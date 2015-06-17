@@ -1,0 +1,8 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UlamekDemo\UlamekDemo\bin\Debug\UlamekDemo.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UlamekDemo\UlamekDemo\bin\Debug\UlamekDemo.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UlamekDemo\UlamekDemo\bin\Debug\UlamekDemo.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UlamekDemo\UlamekDemo\obj\Debug\UlamekDemo.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UlamekDemo\UlamekDemo\obj\Debug\UlamekDemo.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UlamekDemo\UlamekDemo\obj\Debug\UlamekDemo.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UlamekDemo\UlamekDemo\bin\Debug\UlamekBiblioteka.dll
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\UlamekDemo\UlamekDemo\bin\Debug\UlamekBiblioteka.pdb

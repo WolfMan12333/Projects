@@ -1,0 +1,13 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\SimpleVSinstalacja\SimpleVSinstalacja\bin\Debug\SimpleVSinstalacja.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\SimpleVSinstalacja\SimpleVSinstalacja\bin\Debug\SimpleVSinstalacja.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\SimpleVSinstalacja\SimpleVSinstalacja\bin\Debug\SimpleVSinstalacja.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\SimpleVSinstalacja\SimpleVSinstalacja\obj\Debug\SimpleVSinstalacja.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\SimpleVSinstalacja\SimpleVSinstalacja\obj\Debug\MainWindow.baml
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\SimpleVSinstalacja\SimpleVSinstalacja\obj\Debug\MainWindow.g.cs
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\SimpleVSinstalacja\SimpleVSinstalacja\obj\Debug\App.g.cs
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\SimpleVSinstalacja\SimpleVSinstalacja\obj\Debug\SimpleVSinstalacja_MarkupCompile.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\SimpleVSinstalacja\SimpleVSinstalacja\obj\Debug\SimpleVSinstalacja.g.resources
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\SimpleVSinstalacja\SimpleVSinstalacja\obj\Debug\SimpleVSinstalacja.Properties.Resources.resources
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\SimpleVSinstalacja\SimpleVSinstalacja\obj\Debug\SimpleVSinstalacja.csproj.GenerateResource.Cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\SimpleVSinstalacja\SimpleVSinstalacja\obj\Debug\SimpleVSinstalacja.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\SimpleVSinstalacja\SimpleVSinstalacja\obj\Debug\SimpleVSinstalacja.pdb

@@ -1,0 +1,6 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Singleton\Singleton\bin\Debug\Singleton.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Singleton\Singleton\bin\Debug\Singleton.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Singleton\Singleton\bin\Debug\Singleton.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Singleton\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Singleton\Singleton\obj\Debug\Singleton.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Singleton\Singleton\obj\Debug\Singleton.pdb
