@@ -1,0 +1,7 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LiczbaZespolona\ComplexNumberTest\bin\Debug\ComplexNumberTest.dll
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LiczbaZespolona\ComplexNumberTest\bin\Debug\ComplexNumberTest.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LiczbaZespolona\ComplexNumberTest\bin\Debug\StructComplexNumber.dll
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LiczbaZespolona\ComplexNumberTest\bin\Debug\StructComplexNumber.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LiczbaZespolona\ComplexNumberTest\obj\Debug\ComplexNumberTest.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LiczbaZespolona\ComplexNumberTest\obj\Debug\ComplexNumberTest.dll
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LiczbaZespolona\ComplexNumberTest\obj\Debug\ComplexNumberTest.pdb

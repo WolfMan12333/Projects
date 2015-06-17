@@ -1,0 +1,6 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\algorytmeuklidesa\algorytmeuklidesa\bin\Debug\algorytmeuklidesa.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\algorytmeuklidesa\algorytmeuklidesa\bin\Debug\algorytmeuklidesa.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\algorytmeuklidesa\algorytmeuklidesa\bin\Debug\algorytmeuklidesa.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\algorytmeuklidesa\algorytmeuklidesa\obj\Debug\algorytmeuklidesa.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\algorytmeuklidesa\algorytmeuklidesa\obj\Debug\algorytmeuklidesa.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\algorytmeuklidesa\algorytmeuklidesa\obj\Debug\algorytmeuklidesa.pdb

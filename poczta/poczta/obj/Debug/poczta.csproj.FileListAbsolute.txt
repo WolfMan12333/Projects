@@ -1,0 +1,6 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\poczta\poczta\bin\Debug\poczta.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\poczta\poczta\bin\Debug\poczta.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\poczta\poczta\bin\Debug\poczta.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\poczta\poczta\obj\Debug\poczta.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\poczta\poczta\obj\Debug\poczta.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\poczta\poczta\obj\Debug\poczta.pdb

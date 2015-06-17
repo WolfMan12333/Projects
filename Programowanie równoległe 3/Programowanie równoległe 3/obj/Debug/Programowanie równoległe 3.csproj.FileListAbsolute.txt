@@ -1,0 +1,5 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Programowanie równoległe 3\Programowanie równoległe 3\bin\Debug\Programowanie równoległe 3.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Programowanie równoległe 3\Programowanie równoległe 3\bin\Debug\Programowanie równoległe 3.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Programowanie równoległe 3\Programowanie równoległe 3\bin\Debug\Programowanie równoległe 3.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Programowanie równoległe 3\Programowanie równoległe 3\obj\Debug\Programowanie równoległe 3.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Programowanie równoległe 3\Programowanie równoległe 3\obj\Debug\Programowanie równoległe 3.pdb

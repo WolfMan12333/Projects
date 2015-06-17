@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Adresy">
+  <DataContextMoniker Name="/AdresyDataContext" />
+  <nestedChildShapes>
+    <classShape Id="3d81c7db-dd80-4e70-b7c0-37772b098c83" absoluteBounds="1.625, 0.625, 2, 1.9631982421875">
+      <DataClassMoniker Name="/AdresyDataContext/Osoba" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3664adbb-c63a-4f1a-960d-19c2611ca57c" absoluteBounds="1.6399999999999997, 1.085, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1fb0737a-39c1-4a59-b7e7-f14262bdad37" absoluteBounds="5, 0.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/AdresyDataContext/Rozmowy" />
+      <nestedChildShapes>
+        <elementListCompartment Id="13bf6f9b-d06b-4876-b2f4-e604c10ad418" absoluteBounds="5.015, 1.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.625 : 1.41429768880208); (5 : 1.41429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AdresyDataContext/Osoba/Osoba_Rozmowy" />
+      <nodes>
+        <classShapeMoniker Id="3d81c7db-dd80-4e70-b7c0-37772b098c83" />
+        <classShapeMoniker Id="1fb0737a-39c1-4a59-b7e7-f14262bdad37" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

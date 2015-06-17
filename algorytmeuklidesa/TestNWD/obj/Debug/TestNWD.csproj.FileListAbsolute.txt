@@ -1,0 +1,7 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\algorytmeuklidesa\TestNWD\obj\Debug\TestNWD.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\algorytmeuklidesa\TestNWD\bin\Debug\TestNWD.dll
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\algorytmeuklidesa\TestNWD\bin\Debug\TestNWD.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\algorytmeuklidesa\TestNWD\bin\Debug\algorytmeuklidesa.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\algorytmeuklidesa\TestNWD\bin\Debug\algorytmeuklidesa.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\algorytmeuklidesa\TestNWD\obj\Debug\TestNWD.dll
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\algorytmeuklidesa\TestNWD\obj\Debug\TestNWD.pdb

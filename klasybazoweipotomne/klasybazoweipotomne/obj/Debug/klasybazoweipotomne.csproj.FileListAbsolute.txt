@@ -1,0 +1,6 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\klasybazoweipotomne\klasybazoweipotomne\bin\Debug\klasybazoweipotomne.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\klasybazoweipotomne\klasybazoweipotomne\bin\Debug\klasybazoweipotomne.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\klasybazoweipotomne\klasybazoweipotomne\bin\Debug\klasybazoweipotomne.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\klasybazoweipotomne\klasybazoweipotomne\obj\Debug\klasybazoweipotomne.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\klasybazoweipotomne\klasybazoweipotomne\obj\Debug\klasybazoweipotomne.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\klasybazoweipotomne\klasybazoweipotomne\obj\Debug\klasybazoweipotomne.pdb

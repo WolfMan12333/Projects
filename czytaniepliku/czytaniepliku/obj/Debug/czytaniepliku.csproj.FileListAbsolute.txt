@@ -1,0 +1,6 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\czytaniepliku\czytaniepliku\bin\Debug\czytaniepliku.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\czytaniepliku\czytaniepliku\bin\Debug\czytaniepliku.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\czytaniepliku\czytaniepliku\bin\Debug\czytaniepliku.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\czytaniepliku\czytaniepliku\obj\Debug\czytaniepliku.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\czytaniepliku\czytaniepliku\obj\Debug\czytaniepliku.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\czytaniepliku\czytaniepliku\obj\Debug\czytaniepliku.pdb

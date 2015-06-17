@@ -1,0 +1,5 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\dzialanianaliczbie\dzialanianaliczbie\bin\Debug\dzialanianaliczbie.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\dzialanianaliczbie\dzialanianaliczbie\bin\Debug\dzialanianaliczbie.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\dzialanianaliczbie\dzialanianaliczbie\bin\Debug\dzialanianaliczbie.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\dzialanianaliczbie\dzialanianaliczbie\obj\Debug\dzialanianaliczbie.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\dzialanianaliczbie\dzialanianaliczbie\obj\Debug\dzialanianaliczbie.pdb

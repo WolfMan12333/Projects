@@ -1,0 +1,6 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Nagrywarka\Nagrywarka\bin\Debug\Nagrywarka.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Nagrywarka\Nagrywarka\bin\Debug\Nagrywarka.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Nagrywarka\Nagrywarka\bin\Debug\Nagrywarka.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Nagrywarka\Nagrywarka\obj\Debug\Nagrywarka.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Nagrywarka\Nagrywarka\obj\Debug\Nagrywarka.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Nagrywarka\Nagrywarka\obj\Debug\Nagrywarka.csprojResolveAssemblyReference.cache

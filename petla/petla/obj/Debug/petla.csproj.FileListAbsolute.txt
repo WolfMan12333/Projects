@@ -1,0 +1,5 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\petla\petla\bin\Debug\petla.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\petla\petla\bin\Debug\petla.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\petla\petla\bin\Debug\petla.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\petla\petla\obj\Debug\petla.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\petla\petla\obj\Debug\petla.pdb

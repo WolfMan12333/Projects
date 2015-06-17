@@ -1,0 +1,9 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LINQ to XML\LINQ to XML\bin\Debug\LINQ to XML.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LINQ to XML\LINQ to XML\bin\Debug\LINQ to XML.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LINQ to XML\LINQ to XML\bin\Debug\LINQ to XML.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LINQ to XML\LINQ to XML\obj\Debug\LINQ to XML.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LINQ to XML\LINQ to XML\obj\Debug\LINQ_to_XML.Form1.resources
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LINQ to XML\LINQ to XML\obj\Debug\LINQ_to_XML.Properties.Resources.resources
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LINQ to XML\LINQ to XML\obj\Debug\LINQ to XML.csproj.GenerateResource.Cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LINQ to XML\LINQ to XML\obj\Debug\LINQ to XML.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LINQ to XML\LINQ to XML\obj\Debug\LINQ to XML.pdb

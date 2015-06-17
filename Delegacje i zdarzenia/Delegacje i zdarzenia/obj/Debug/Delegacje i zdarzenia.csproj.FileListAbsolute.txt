@@ -1,0 +1,6 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Delegacje i zdarzenia\Delegacje i zdarzenia\bin\Debug\Delegacje i zdarzenia.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Delegacje i zdarzenia\Delegacje i zdarzenia\bin\Debug\Delegacje i zdarzenia.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Delegacje i zdarzenia\Delegacje i zdarzenia\bin\Debug\Delegacje i zdarzenia.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Delegacje i zdarzenia\Delegacje i zdarzenia\obj\Debug\Delegacje i zdarzenia.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Delegacje i zdarzenia\Delegacje i zdarzenia\obj\Debug\Delegacje i zdarzenia.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Delegacje i zdarzenia\Delegacje i zdarzenia\obj\Debug\Delegacje i zdarzenia.pdb

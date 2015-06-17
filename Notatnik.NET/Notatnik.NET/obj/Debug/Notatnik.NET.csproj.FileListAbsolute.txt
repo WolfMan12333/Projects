@@ -1,0 +1,9 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Notatnik.NET\Notatnik.NET\bin\Debug\Notatnik.NET.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Notatnik.NET\Notatnik.NET\bin\Debug\Notatnik.NET.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Notatnik.NET\Notatnik.NET\bin\Debug\Notatnik.NET.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Notatnik.NET\Notatnik.NET\obj\Debug\Notatnik.NET.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Notatnik.NET\Notatnik.NET\obj\Debug\Notatnik.NET.Form1.resources
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Notatnik.NET\Notatnik.NET\obj\Debug\Notatnik.NET.Properties.Resources.resources
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Notatnik.NET\Notatnik.NET\obj\Debug\Notatnik.NET.csproj.GenerateResource.Cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Notatnik.NET\Notatnik.NET\obj\Debug\Notatnik.NET.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Notatnik.NET\Notatnik.NET\obj\Debug\Notatnik.NET.pdb

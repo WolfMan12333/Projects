@@ -1,0 +1,8 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LiczbaZespolona\LiczbaZespolona\bin\Debug\LiczbaZespolona.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LiczbaZespolona\LiczbaZespolona\obj\Debug\LiczbaZespolona.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LiczbaZespolona\LiczbaZespolona\bin\Debug\LiczbaZespolona.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LiczbaZespolona\LiczbaZespolona\bin\Debug\LiczbaZespolona.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LiczbaZespolona\LiczbaZespolona\obj\Debug\LiczbaZespolona.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LiczbaZespolona\LiczbaZespolona\obj\Debug\LiczbaZespolona.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LiczbaZespolona\LiczbaZespolona\bin\Debug\StructComplexNumber.dll
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LiczbaZespolona\LiczbaZespolona\bin\Debug\StructComplexNumber.pdb

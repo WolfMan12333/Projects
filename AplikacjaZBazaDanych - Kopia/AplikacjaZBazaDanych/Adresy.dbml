@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Adresy" Class="AdresyDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\Adresy.mdf;Integrated Security=True" SettingsObjectName="AplikacjaZBazaDanych.Properties.Settings" SettingsPropertyName="AdresyConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Osoby" Member="Osobas">
+    <Type Name="Osoba">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Imie" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Nazwisko" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="NumerTelefonu" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Wiek" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Osoba_Rozmowy" Member="Rozmowies" ThisKey="Id" OtherKey="Id" Type="Rozmowy" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Rozmowy" Member="Rozmowies">
+    <Type Name="Rozmowy">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Rozmówca" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="Data" Type="System.DateTime" DbType="DateTime NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="CzasTrwania" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Osoba_Rozmowy" Member="Osoba" ThisKey="Id" OtherKey="Id" Type="Osoba" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.AktualizujWiek" Method="AktualizujWiek">
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.ListaOsobPelnoletnich" Method="ListaOsobPelnoletnich">
+    <ElementType Name="ListaOsobPelnoletnichResult">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Imie" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Nazwisko" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="NumerTelefonu" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Wiek" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+</Database>

@@ -1,0 +1,9 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Godziny\Godziny\bin\Debug\Godziny.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Godziny\Godziny\bin\Debug\Godziny.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Godziny\Godziny\bin\Debug\Godziny.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Godziny\Godziny\obj\Debug\Godziny.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Godziny\Godziny\obj\Debug\Godziny.Form1.resources
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Godziny\Godziny\obj\Debug\Godziny.Properties.Resources.resources
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Godziny\Godziny\obj\Debug\Godziny.csproj.GenerateResource.Cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Godziny\Godziny\obj\Debug\Godziny.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Godziny\Godziny\obj\Debug\Godziny.pdb

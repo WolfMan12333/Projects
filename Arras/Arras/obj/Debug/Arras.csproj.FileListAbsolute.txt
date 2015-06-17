@@ -1,0 +1,8 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Arras\Arras\bin\Debug\Arras.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Arras\Arras\bin\Debug\Arras.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Arras\Arras\bin\Debug\Arras.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Arras\Arras\obj\Debug\Arras.Form1.resources
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Arras\Arras\obj\Debug\Arras.Properties.Resources.resources
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Arras\Arras\obj\Debug\Arras.csproj.GenerateResource.Cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Arras\Arras\obj\Debug\Arras.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Arras\Arras\obj\Debug\Arras.pdb

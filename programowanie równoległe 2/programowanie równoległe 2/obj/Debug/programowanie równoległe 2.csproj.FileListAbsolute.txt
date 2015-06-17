@@ -1,0 +1,6 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\programowanie równoległe 2\programowanie równoległe 2\bin\Debug\programowanie równoległe 2.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\programowanie równoległe 2\programowanie równoległe 2\bin\Debug\programowanie równoległe 2.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\programowanie równoległe 2\programowanie równoległe 2\bin\Debug\programowanie równoległe 2.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\programowanie równoległe 2\programowanie równoległe 2\obj\Debug\programowanie równoległe 2.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\programowanie równoległe 2\programowanie równoległe 2\obj\Debug\programowanie równoległe 2.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\programowanie równoległe 2\programowanie równoległe 2\obj\Debug\programowanie równoległe 2.pdb

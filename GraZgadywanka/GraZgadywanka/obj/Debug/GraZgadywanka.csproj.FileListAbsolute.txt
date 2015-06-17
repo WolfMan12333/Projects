@@ -1,0 +1,6 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\GraZgadywanka\GraZgadywanka\bin\Debug\GraZgadywanka.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\GraZgadywanka\GraZgadywanka\bin\Debug\GraZgadywanka.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\GraZgadywanka\GraZgadywanka\bin\Debug\GraZgadywanka.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\GraZgadywanka\GraZgadywanka\obj\Debug\GraZgadywanka.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\GraZgadywanka\GraZgadywanka\obj\Debug\GraZgadywanka.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\GraZgadywanka\GraZgadywanka\obj\Debug\GraZgadywanka.pdb

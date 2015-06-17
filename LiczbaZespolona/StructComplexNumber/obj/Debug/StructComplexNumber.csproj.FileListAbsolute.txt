@@ -1,0 +1,5 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LiczbaZespolona\StructComplexNumber\bin\Debug\StructComplexNumber.dll
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LiczbaZespolona\StructComplexNumber\bin\Debug\StructComplexNumber.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LiczbaZespolona\StructComplexNumber\obj\Debug\StructComplexNumber.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LiczbaZespolona\StructComplexNumber\obj\Debug\StructComplexNumber.dll
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\LiczbaZespolona\StructComplexNumber\obj\Debug\StructComplexNumber.pdb

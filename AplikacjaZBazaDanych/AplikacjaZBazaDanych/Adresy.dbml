@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Adresy" Class="AdresyDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\Adresy.mdf;Integrated Security=True" SettingsObjectName="AplikacjaZBazaDanych.Properties.Settings" SettingsPropertyName="AdresyConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Osoby" Member="Osobies">
+    <Type Name="Osoby">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Imie" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Nazwisko" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="NumerTelefonu" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Wiek" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Member="Property1" Type="System.String" CanBeNull="false" />
+      <Association Name="Osoby_Rozmowy" Member="Rozmowies" ThisKey="Id" OtherKey="Id" Type="Rozmowy" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Rozmowy" Member="Rozmowies">
+    <Type Name="Rozmowy">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Rozmówca" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="Data" Type="System.DateTime" DbType="DateTime NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="CzasTrwania" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Osoby_Rozmowy" Member="Osoby" ThisKey="Id" OtherKey="Id" Type="Osoby" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

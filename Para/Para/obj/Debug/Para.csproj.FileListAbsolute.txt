@@ -1,0 +1,6 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Para\Para\bin\Debug\Para.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Para\Para\bin\Debug\Para.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Para\Para\bin\Debug\Para.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Para\Para\obj\Debug\Para.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Para\Para\obj\Debug\Para.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Para\Para\obj\Debug\Para.pdb

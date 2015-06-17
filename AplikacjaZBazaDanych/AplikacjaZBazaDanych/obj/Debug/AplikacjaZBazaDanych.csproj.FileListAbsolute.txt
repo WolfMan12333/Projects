@@ -1,0 +1,12 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\AplikacjaZBazaDanych\AplikacjaZBazaDanych\bin\Debug\AplikacjaZBazaDanych.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\AplikacjaZBazaDanych\AplikacjaZBazaDanych\bin\Debug\Adresy.mdf
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\AplikacjaZBazaDanych\AplikacjaZBazaDanych\bin\Debug\Adresy_log.ldf
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\AplikacjaZBazaDanych\AplikacjaZBazaDanych\bin\Debug\AplikacjaZBazaDanych.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\AplikacjaZBazaDanych\AplikacjaZBazaDanych\bin\Debug\AplikacjaZBazaDanych.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\AplikacjaZBazaDanych\AplikacjaZBazaDanych\obj\Debug\AplikacjaZBazaDanych.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\AplikacjaZBazaDanych\AplikacjaZBazaDanych\obj\Debug\AplikacjaZBazaDanych.Form1.resources
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\AplikacjaZBazaDanych\AplikacjaZBazaDanych\obj\Debug\AplikacjaZBazaDanych.Properties.Resources.resources
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\AplikacjaZBazaDanych\AplikacjaZBazaDanych\obj\Debug\AplikacjaZBazaDanych.csproj.GenerateResource.Cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\AplikacjaZBazaDanych\AplikacjaZBazaDanych\obj\Debug\AplikacjaZBazaDanych.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\AplikacjaZBazaDanych\AplikacjaZBazaDanych\obj\Debug\AplikacjaZBazaDanych.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\AplikacjaZBazaDanych\AplikacjaZBazaDanych\obj\Debug\AplikacjaZBazaDanych.Formularz.resources

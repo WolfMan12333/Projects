@@ -1,0 +1,9 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Kolory\Kolory\bin\Debug\Kolory.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Kolory\Kolory\bin\Debug\Kolory.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Kolory\Kolory\bin\Debug\Kolory.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Kolory\Kolory\obj\Debug\Kolory.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Kolory\Kolory\obj\Debug\Kolory.Form1.resources
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Kolory\Kolory\obj\Debug\Kolory.Properties.Resources.resources
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Kolory\Kolory\obj\Debug\Kolory.csproj.GenerateResource.Cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Kolory\Kolory\obj\Debug\Kolory.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Kolory\Kolory\obj\Debug\Kolory.pdb

@@ -1,0 +1,6 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Dziedziczenie\Dziedziczenie\bin\Debug\Dziedziczenie.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Dziedziczenie\Dziedziczenie\bin\Debug\Dziedziczenie.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Dziedziczenie\Dziedziczenie\bin\Debug\Dziedziczenie.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.pdb

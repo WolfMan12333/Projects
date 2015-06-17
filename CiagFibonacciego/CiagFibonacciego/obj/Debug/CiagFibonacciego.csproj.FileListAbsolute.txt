@@ -1,0 +1,6 @@
+C:\Users\WolfMan12333\Desktop\CiagFibonacciego\CiagFibonacciego\bin\Debug\CiagFibonacciego.exe.config
+C:\Users\WolfMan12333\Desktop\CiagFibonacciego\CiagFibonacciego\bin\Debug\CiagFibonacciego.exe
+C:\Users\WolfMan12333\Desktop\CiagFibonacciego\CiagFibonacciego\bin\Debug\CiagFibonacciego.pdb
+C:\Users\WolfMan12333\Desktop\CiagFibonacciego\CiagFibonacciego\obj\Debug\CiagFibonacciego.csprojResolveAssemblyReference.cache
+C:\Users\WolfMan12333\Desktop\CiagFibonacciego\CiagFibonacciego\obj\Debug\CiagFibonacciego.exe
+C:\Users\WolfMan12333\Desktop\CiagFibonacciego\CiagFibonacciego\obj\Debug\CiagFibonacciego.pdb

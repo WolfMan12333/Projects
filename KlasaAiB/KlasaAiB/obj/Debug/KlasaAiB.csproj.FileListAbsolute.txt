@@ -1,0 +1,6 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\KlasaAiB\KlasaAiB\bin\Debug\KlasaAiB.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\KlasaAiB\KlasaAiB\obj\Debug\KlasaAiB.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\KlasaAiB\KlasaAiB\bin\Debug\KlasaAiB.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\KlasaAiB\KlasaAiB\bin\Debug\KlasaAiB.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\KlasaAiB\KlasaAiB\obj\Debug\KlasaAiB.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\KlasaAiB\KlasaAiB\obj\Debug\KlasaAiB.pdb

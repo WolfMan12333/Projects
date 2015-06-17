@@ -1,0 +1,6 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\ParaDemo\ParaDemo\bin\Debug\ParaDemo.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\ParaDemo\ParaDemo\bin\Debug\ParaDemo.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\ParaDemo\ParaDemo\bin\Debug\ParaDemo.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\ParaDemo\ParaDemo\obj\Debug\ParaDemo.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\ParaDemo\ParaDemo\obj\Debug\ParaDemo.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\ParaDemo\ParaDemo\obj\Debug\ParaDemo.pdb

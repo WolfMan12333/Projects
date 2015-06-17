@@ -1,0 +1,6 @@
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Podatek\Podatek\bin\Debug\Podatek.exe.config
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Podatek\Podatek\bin\Debug\Podatek.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Podatek\Podatek\bin\Debug\Podatek.pdb
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Podatek\Podatek\obj\Debug\Podatek.csprojResolveAssemblyReference.cache
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Podatek\Podatek\obj\Debug\Podatek.exe
+D:\Users\WolfMan12333\Documents\Visual Studio 2013\Projects\Podatek\Podatek\obj\Debug\Podatek.pdb
